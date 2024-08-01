@@ -32,3 +32,10 @@ html{
 html.active{
     overflow: hidden;
 }
+/* 공통영역 */
+.inner {
+    display: block;
+    width: 100%;
+    max-width: 1420px;
+    margin: 0 auto;
+}
